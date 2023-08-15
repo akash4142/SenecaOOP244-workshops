@@ -1,0 +1,11 @@
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+
+
+student name - akash yadav
+student id - 172566218
+email- ayadav35@myseneca.ca
+date- 22/jan/2023
+
+
+After i completed the ipc144 , i thought this course(oop ) is not going to be that much tough but in the first workshop only i tried all the stuff i have learnt it was the mixture of each and every topic i learnt  in the ipc144 .The topic i spent my most of the time while doing this workshop was the reading the data from the file . sometimes i forget to pass the array when i call my fuction .When i got frustated with the error then i messaged the progessir if the help then he helped me with is . Apart this i would say it was not that tough beacuse once i read the  data from the file i havae to sort that on the basis the student number which i have learnt in the ipc144 so that part was the easy part. Moreever , i also included a function in order to display the sorted data. and i know made it more complicated for me using the arrays and all but i tried all the ways then finally this on e worked of me . 
+If i talk about what  i have learnt in this workshop so firstly i get to know the syntax of the c++ language and also i got the good practice of reading the data from the file .  
