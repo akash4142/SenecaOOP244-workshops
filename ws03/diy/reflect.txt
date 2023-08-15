@@ -1,0 +1,12 @@
+/*name - akash yadav
+student no. = 172566218
+seneca email- ayadav35@myseneca.ca
+section - ncc
+
+citation-: 
+
+ I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+
+*/
+In this workshop 2 , i have learnt lot of new stuff first of all i started with the data members and the member functions  . This workshop is all about the security of the data members so that no one other than the actual coder of the code can manipulate the code . in this workshop we need some getter and setter in order to get the access of the data members . this is the i would say easiest workshops till now .  
+thank you
