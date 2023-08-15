@@ -1,0 +1,14 @@
+/*name - akash yadav
+student no. = 172566218
+seneca email- ayadav35@myseneca.ca
+section - ncc
+
+citation-: 
+
+ I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+
+*/
+
+
+In this workshop i would say i have learnt that most important thing in c++ that is the file handling . i would say for me personally this is one of the hardest workshop for me in this course so far. however , there were many thing i have learnt how to write into the file and how to read the data from the file through through the ostream and the istream . 
+This is all about the final project but if i talk about the project milestone 1 which is the easiest one becasue that this very easy because we need to implement the basic things for now and i am sure it will be getting tougher and tougher in future.
