@@ -1,0 +1,2 @@
+In this workshop  , i have learnt lot of new stuff first of all i started with the constructors and the destructors  . This workshop is all about the constructors . I have learnt the default constructors what it does is that it set the default value to the data members of the class these constructors or the overloading constructors are executed automatically when an object of the class is assign and similarly for the destructor are used to the deallocate the dynamic memory  . 
+thank you
