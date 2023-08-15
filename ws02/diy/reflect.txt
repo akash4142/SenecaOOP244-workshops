@@ -1,0 +1,17 @@
+/*I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.*/
+
+
+/*student name - akash yadav
+student id - 172566218
+email- ayadav35@myseneca.ca
+date- 22/jan/2023
+*/
+In this workshop 2 , i have learnt lot of new stuff first of all i will start with the dynamic memory allocation . This workshop is all about t how to alloacate the dynamic memory and how to deallocate that memory . so in order to allocate the memory we have to remember the syntax of the memory allocation . the syntax is -:
+ data type *  ptr_name;
+ptr_name = new datatype[amount of memory needed ];
+this is the proper syntax of the memory allocation .
+once the memory is allocated it becomes very important to deallocate the memory otherwise slowly and gradually it will pile up the memory of the system and later the system might chased which is certainly not a good practice. 
+while deleting the memory we have to make sure that each memory block is deleted sometime we just delete the pointer because of that our rest of memory becomes unreachable and we neither can use it nor can we delete it . 
+syntax of delete is::
+ delete[] name_of_memory;
+thank you
